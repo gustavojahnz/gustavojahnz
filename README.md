@@ -46,10 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gustavojahnz/gustavojahnz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Sou Desenvolvedor Back-End, especializado na criação de APIs REST e microserviços utilizando o ecossistema Spring Boot para entregar soluções robustas, escaláveis e seguras. Tenho experiência com Hibernate, Oracle, Postgres, modelagem de dados e integrações entre sistemas.<br><br>Atuei em projetos de grande porte e arquiteturas distribuídas, garantindo alta disponibilidade e performance. Possuo experiência com AWS (EC2, S3, RDS, Lambda e outros serviços), além de integração com pipelines e ambientes em nuvem. Trabalho com testes unitários (JUnit/Mockito), versionamento e boas práticas de engenharia de software. <br><br>Participo de equipes ágeis (Scrum/Kanban), contribuindo ativamente em todas as fases do desenvolvimento e colaborando na melhoria contínua dos processos. Sou movido por aprendizado constante, sempre estudando novas tecnologias, padrões de arquitetura e boas práticas para entregar soluções de alto impacto. Aberto a novos desafios como desenvolvedor, especialmente em projetos com microsserviços e cloud/AWS.</p>
 
 ###
